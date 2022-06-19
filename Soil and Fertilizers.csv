@@ -1,0 +1,228 @@
+S.No,Farmers Name,State Name,Soil Type,Fertilizer Used,No. of Fertilizers used 
+1,Abhilasha Kushwaha,Bihar,Clay Soil,NITROGEN PHOSPHOROUS,2
+2,Abhishek Shimla,Bihar,Sandy soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+3,Ajay Choudhary,Bihar,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+4,Alpna goswami,Bihar,Silt Soil,NITROGEN,1
+5,Aman chandel,Bihar,Peat Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+6,Amit Kumar tiwari,Bihar,Loam Soil,NITROGEN,1
+7,ANKIT KUMAR SONI,Bihar,Dry Soil,AMMONIUM_SULPHATE,1
+8,Ankrita,Bihar,Slit Soil,NITROGEN POTASSIUM,2
+9,Antram Yadav,Bihar,Loam Soil,NITROGEN,1
+10,Apurv Mishra,Bihar,Black soil,NITROGEN PHOSPHOROUS,2
+11,Archna Sachdev,Bihar,Alluvial soil,NITROGEN PHOSPHOROUS,2
+12,ASHUTOSH KUSHWAHA,Andhra Pradesh,Dry Soil,UREA AMMONIUM_SULPHATE,2
+13,BASANT YADAV,Andhra Pradesh,Loam Soil,NITROGEN PHOSPHOROUS,2
+14,Charu tiwari,Andhra Pradesh,Laterite Soil,NITROGEN PHOSPHOROUS,2
+15,Deeksha janghela,Andhra Pradesh,Loam Soil,NITROGEN,1
+16,Deeksha tiwari,Andhra Pradesh,Clay Soil,POTASSIUM,1
+17,Deependra Singh Thakur,Andhra Pradesh,Sandy soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+18,ABHINOW PRAKASH PANDEY,Andhra Pradesh,Loam Soil,NITROGEN,1
+19,Abhishek Namdeo,Andhra Pradesh,Silt Soil,NITROGEN PHOSPHOROUS,2
+20,Aditya Sahu,Andhra Pradesh,Peat Soil,NITROGEN PHOSPHOROUS,2
+21,AKASH MEHRA,Andhra Pradesh,Loam Soil,NITROGEN POTASSIUM,2
+22,Aman Chourasiya,Arunachal Pradesh,Dry Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+23,Anam Taha Khan,Arunachal Pradesh,Slit Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+24,Priyanka Tiwari,Gujarat,Silt Soil,NITROGEN PHOSPHOROUS,2
+25,Ragini Yadav,Haryana,Peat Soil,NITROGEN PHOSPHOROUS,2
+26,Rahul Raikwar,Haryana,Loam Soil,UREA AMMONIUM_SULPHATE,2
+27,Rahul yadav,Haryana,Dry Soil,NITROGEN PHOSPHOROUS,2
+28,RAHUL YADAV,Haryana,Slit Soil,NITROGEN PHOSPHOROUS,2
+29,Rakesh Singh Thakur,Haryana,Loam Soil,NITROGEN,1
+30,Rohit sharma,Haryana,Black soil,POTASSIUM,1
+31,Rupali Barde,Haryana,Alluvial soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+32,Sachin Singh Lodhi,Haryana,Dry Soil,NITROGEN,1
+33,Sakshi tantuway,Haryana,Loam Soil,NITROGEN PHOSPHOROUS,2
+34,SATISH KUMAR,Haryana,Laterite Soil,NITROGEN PHOSPHOROUS,2
+35,Satyam Patel,Haryana,Loam Soil,NITROGEN POTASSIUM,2
+36,Shabreen bano,Chhattisgarh,Clay Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+37,Shantanu Vishwakarma,Chhattisgarh,Sandy soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+38,SHEJAL NAGPURE,Chhattisgarh,Loam Soil,NITROGEN PHOSPHOROUS,2
+39,Shivam Gupta,Chhattisgarh,Silt Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+40,Shivam patel,Chhattisgarh,Peat Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+41,Shivani rai,Chhattisgarh,Loam Soil,NITROGEN,1
+42,Shivani Tiwari,Chhattisgarh,Dry Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+43,Shobhit patel,Chhattisgarh,Slit Soil,NITROGEN,1
+44,SHRAWAN SINGH RAGHUVANSHI,Chhattisgarh,Loam Soil,AMMONIUM_SULPHATE,1
+45,Shubham Agrawal,Chhattisgarh,Black soil,NITROGEN POTASSIUM,2
+46,Shubham Tamrakar,Chhattisgarh,Alluvial soil,NITROGEN,1
+47,Sonali chouksey,Chhattisgarh,Dry Soil,NITROGEN PHOSPHOROUS,2
+48,Sourabh Singh Thakur,Uttarakhand,Loam Soil,NITROGEN PHOSPHOROUS,2
+49,sourabh suryawanshi,Uttarakhand,Laterite Soil,UREA AMMONIUM_SULPHATE,2
+50,Sujeet Patel,Uttarakhand,Loam Soil,NITROGEN PHOSPHOROUS,2
+51,Sukhpreet kaur,Uttarakhand,Clay Soil,NITROGEN PHOSPHOROUS,2
+52,Surbhi,Uttarakhand,Sandy soil,NITROGEN,1
+53,Surbhi chourasiya,Uttarakhand,Loam Soil,POTASSIUM,1
+54,Suyash pandey,Uttarakhand,Silt Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+55,Tarun soni,Uttarakhand,Peat Soil,NITROGEN,1
+56,Trapti pandey,Uttarakhand,Loam Soil,NITROGEN PHOSPHOROUS,2
+57,Uday jatav,Uttarakhand,Dry Soil,NITROGEN PHOSPHOROUS,2
+58,Ujjwal Shivhare,Uttarakhand,Slit Soil,NITROGEN POTASSIUM,2
+59,Vikas Patel,Uttarakhand,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+60,VIKAS TIWARI,West Bengal,Black soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+61,Vishal Singh Jatav,West Bengal,Alluvial soil,NITROGEN PHOSPHOROUS,2
+62,VIVEK PATEL,West Bengal,Dry Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+63,Ritik choudhary,West Bengal,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+64,Sakshi Rawat,West Bengal,Laterite Soil,NITROGEN,1
+65,Sandeep kumar patel,West Bengal,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+66,Sandeep Kumar sahu,West Bengal,Clay Soil,NITROGEN,1
+67,Sarita dhumketi,West Bengal,Sandy soil,AMMONIUM_SULPHATE,1
+68,Satish Kumar bind,West Bengal,Loam Soil,NITROGEN POTASSIUM,2
+69,Satyam Pandey,West Bengal,Silt Soil,NITROGEN,1
+70,Savita Verma,West Bengal,Peat Soil,NITROGEN PHOSPHOROUS,2
+71,Shriyansh Tiwari,Assam,Loam Soil,NITROGEN PHOSPHOROUS,2
+72,Shubam Kumar,Assam,Dry Soil,UREA AMMONIUM_SULPHATE,2
+73,Som Pandey,Assam,Slit Soil,NITROGEN PHOSPHOROUS,2
+74,Soniya Kori,Assam,Loam Soil,NITROGEN PHOSPHOROUS,2
+75,SURAJ KUMAR,Assam,Black soil,NITROGEN,1
+76,Varsha Ahirwar,Assam,Alluvial soil,POTASSIUM,1
+77,YOGESH BISEN,Assam,Dry Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+78,Aakanksha Agrawal,Assam,Loam Soil,NITROGEN,1
+79,Aayushi patel,Assam,Laterite Soil,NITROGEN PHOSPHOROUS,2
+80,Abhay Kumar Dwivedi,Assam,Loam Soil,NITROGEN PHOSPHOROUS,2
+81,Abhinav Jyotishi,Assam,Clay Soil,NITROGEN POTASSIUM,2
+82,Abhiraj Singh Thakur,Assam,Sandy soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+83,Achhe Lal,Chandigarh,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+84,ADARSH SHRIVASTAVA,Chandigarh,Silt Soil,NITROGEN PHOSPHOROUS,2
+85,Aditi sahu,Chandigarh,Peat Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+86,Akanksha Vishwakarma,Chandigarh,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+87,AKASH SHUKLA,Chandigarh,Dry Soil,NITROGEN,1
+88,Akash Soni,Chandigarh,Slit Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+89,Akshat Modi,Chandigarh,Loam Soil,NITROGEN,1
+90,Alquama Khan,Chandigarh,Black soil,AMMONIUM_SULPHATE,1
+91,Aman Garg,Chandigarh,Alluvial soil,NITROGEN POTASSIUM,2
+92,Ananth kumar,Chandigarh,Dry Soil,NITROGEN,1
+93,Aniket kashyap,Chandigarh,Loam Soil,NITROGEN PHOSPHOROUS,2
+94,Ankita Gupta,Chandigarh,Laterite Soil,NITROGEN PHOSPHOROUS,2
+95,Anuj Soni,Rajasthan,Loam Soil,UREA AMMONIUM_SULPHATE,2
+96,Anurag Namdev,Rajasthan,Clay Soil,NITROGEN PHOSPHOROUS,2
+97,Arpit Jha,Rajasthan,Sandy soil,NITROGEN PHOSPHOROUS,2
+98,Arpit Namdeo,Rajasthan,Loam Soil,NITROGEN,1
+99,Ashish Khare,Rajasthan,Silt Soil,POTASSIUM,1
+100,Ashwani Balaji Dixit,Rajasthan,Peat Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+101,Asmit Shrivastava,Rajasthan,Loam Soil,NITROGEN,1
+102,Astha,Rajasthan,Dry Soil,NITROGEN PHOSPHOROUS,2
+103,Atul Deshmukh,Rajasthan,Slit Soil,NITROGEN PHOSPHOROUS,2
+104,Ayush Dubey,Rajasthan,Loam Soil,NITROGEN POTASSIUM,2
+105,Ayush Jain,Rajasthan,Black soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+106,Ayushi naidu,Rajasthan,Alluvial soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+107,Chaitanya Agrawal,Rajasthan,Dry Soil,NITROGEN PHOSPHOROUS,2
+108,Chandan Singh,Punjab,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+109,Deepak singh,Punjab,Laterite Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+110,DEEPANSHU PATEL,Punjab,Loam Soil,NITROGEN,1
+111,Devesh Yadav,Punjab,Clay Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+112,Devyani Seth,Punjab,Sandy soil,NITROGEN,1
+113,DIVYA SONI,Punjab,Loam Soil,AMMONIUM_SULPHATE,1
+114,Garima Soni,Punjab,Silt Soil,NITROGEN POTASSIUM,2
+115,Gourav Chourasiya,Punjab,Peat Soil,NITROGEN,1
+116,Harsh Agrawal,Punjab,Loam Soil,NITROGEN PHOSPHOROUS,2
+117,Harshit Dubey,Punjab,Dry Soil,NITROGEN PHOSPHOROUS,2
+118,Harshit pethiya,Punjab,Slit Soil,UREA AMMONIUM_SULPHATE,2
+119,Himanshu Shukla,Punjab,Loam Soil,NITROGEN PHOSPHOROUS,2
+120,Jagriti Dixit,Punjab,Black soil,NITROGEN PHOSPHOROUS,2
+121,Jyotirmay tripathi,Punjab,Alluvial soil,NITROGEN,1
+122,Jyotsna sahu,Uttar Pradesh,Dry Soil,POTASSIUM,1
+123,Karishma kanojiya,Uttar Pradesh,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+124,Karishma Wakharkar,Uttar Pradesh,Laterite Soil,NITROGEN,1
+125,Khushi Bisen,Uttar Pradesh,Loam Soil,NITROGEN PHOSPHOROUS,2
+126,Krapashankar,Uttar Pradesh,Clay Soil,NITROGEN PHOSPHOROUS,2
+127,Kriti Gautam,Uttar Pradesh,Sandy soil,NITROGEN POTASSIUM,2
+128,KRITIKA JAISWAL,Uttar Pradesh,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+129,Kush Tripathi,Uttar Pradesh,Silt Soil,NITROGEN PHOSPHOROUS POTASSIUM,2
+130,Manas Parey,Uttar Pradesh,Peat Soil,NITROGEN PHOSPHOROUS,1
+131,Mansi Jain,Uttar Pradesh,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+132,mansukh lalwani,Uttar Pradesh,Dry Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+133,Mayur Agrawal,Uttar Pradesh,Slit Soil,NITROGEN,1
+134,Minakshi Srivastava,Uttar Pradesh,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+135,MO Ashhar,Uttar Pradesh,Black soil,NITROGEN,1
+136,Mohd fazil qureshi,Uttar Pradesh,Alluvial soil,AMMONIUM_SULPHATE,1
+137,Mohd Yakub,Tamil Nadu,Dry Soil,NITROGEN POTASSIUM,2
+138,Mohit Kumar,Tamil Nadu,Loam Soil,NITROGEN,1
+139,Mohit Patel,Tamil Nadu,Laterite Soil,NITROGEN PHOSPHOROUS,2
+140,Monika Thakur,Tamil Nadu,Loam Soil,NITROGEN PHOSPHOROUS,2
+141,Muskan Tripathi,Tamil Nadu,Clay Soil,UREA AMMONIUM_SULPHATE,2
+142,Navnidhi Jain,Tamil Nadu,Sandy soil,NITROGEN PHOSPHOROUS,2
+143,Naziya Hasan,Tamil Nadu,Loam Soil,NITROGEN PHOSPHOROUS,2
+144,Neeraj Vishwakarma,Tamil Nadu,Silt Soil,NITROGEN,1
+145,Neha Patel,Tamil Nadu,Peat Soil,POTASSIUM,1
+146,Niharika mishra,Tamil Nadu,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+147,NIKHIL KUMAR SONI,Tamil Nadu,Dry Soil,NITROGEN,1
+148,Palak bodhani,Tamil Nadu,Slit Soil,NITROGEN PHOSPHOROUS,2
+149,Parul Chouksey,Tamil Nadu,Loam Soil,NITROGEN PHOSPHOROUS,2
+150,Piyush Rahangdale,Tamil Nadu,Black soil,NITROGEN POTASSIUM,2
+151,Prabhat Shivhare,Orissa,Alluvial soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+152,Prachi Singh Thakur,Orissa,Dry Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+153,Prakhar Dubey,Orissa,Loam Soil,NITROGEN PHOSPHOROUS,2
+154,prakriti sharma,Orissa,Laterite Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+155,PRANJAL KHARD,Orissa,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+156,Praveen pal,Orissa,Clay Soil,NITROGEN,1
+157,Priya Singh,Orissa,Sandy soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+158,Priyanka Kanojia,Orissa,Loam Soil,NITROGEN,1
+159,Priyanka Nigam,Orissa,Silt Soil,AMMONIUM_SULPHATE,1
+160,Priyanka sahu,Orissa,Peat Soil,NITROGEN POTASSIUM,2
+161,puspendra kumar pandey,Orissa,Loam Soil,NITROGEN,1
+162,Rachit Kumar Gupta,Maharashtra,Dry Soil,NITROGEN PHOSPHOROUS,2
+163,Ramkrishan Ahirwar,Maharashtra,Slit Soil,NITROGEN PHOSPHOROUS,2
+164,Ritik chakrawarty,Maharashtra,Loam Soil,UREA AMMONIUM_SULPHATE,2
+165,Ritik kapariya,Maharashtra,Black soil,NITROGEN PHOSPHOROUS,2
+166,Ritik Tiwari,Maharashtra,Alluvial soil,NITROGEN PHOSPHOROUS,2
+167,Riya Lodhi,Maharashtra,Dry Soil,NITROGEN,1
+168,Roopali Koshta,Maharashtra,Loam Soil,POTASSIUM,1
+169,Saba naaz,Maharashtra,Laterite Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+170,Sachin Vishwakarma,Maharashtra,Loam Soil,NITROGEN,1
+171,Sakshee yadav,Maharashtra,Clay Soil,NITROGEN PHOSPHOROUS,2
+172,SAKUN GOUTHARIYA,Maharashtra,Sandy soil,NITROGEN PHOSPHOROUS,2
+173,Samiksha Yadav,Maharashtra,Loam Soil,NITROGEN POTASSIUM,2
+174,Samridhi Shukla,Maharashtra,Silt Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+175,Sana Anjum,Himachal Pradesh,Peat Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+176,SANA PARVEEN,Himachal Pradesh,Loam Soil,NITROGEN PHOSPHOROUS,2
+177,Sarika Nag,Himachal Pradesh,Dry Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+178,Shashank Kumar Sahu,Himachal Pradesh,Slit Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+179,Shashwat Tiwari,Himachal Pradesh,Loam Soil,NITROGEN,1
+180,Shashwat Tiwari,Himachal Pradesh,Black soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+181,Shejal Soni,Himachal Pradesh,Alluvial soil,NITROGEN,1
+182,shikha sharma,Himachal Pradesh,Dry Soil,AMMONIUM_SULPHATE,1
+183,Shilpi priya,Himachal Pradesh,Loam Soil,NITROGEN POTASSIUM,2
+184,SHIVAM SHUKLA,Himachal Pradesh,Laterite Soil,NITROGEN,1
+185,shivansu soni,Himachal Pradesh,Loam Soil,NITROGEN PHOSPHOROUS,2
+186,Shreya Pandey,Himachal Pradesh,Clay Soil,NITROGEN PHOSPHOROUS,2
+187,Shreya Vishnoi,Himachal Pradesh,Sandy soil,UREA AMMONIUM_SULPHATE,2
+188,Shruti Mishra,Jharkhand,Loam Soil,NITROGEN PHOSPHOROUS,2
+189,Shubham Sahu,Jharkhand,Silt Soil,NITROGEN PHOSPHOROUS,2
+190,Shubham Sulakhe,Jharkhand,Peat Soil,NITROGEN,1
+191,Shubhanshu Patel,Jharkhand,Loam Soil,POTASSIUM,1
+192,Shushma patel,Jharkhand,Dry Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+193,Sikita Singhai,Jharkhand,Slit Soil,NITROGEN,1
+194,Sneha Kumari,Jharkhand,Loam Soil,NITROGEN PHOSPHOROUS,2
+195,Sonal shivhare,Jharkhand,Black soil,NITROGEN PHOSPHOROUS,2
+196,Sonali patel,Jharkhand,Alluvial soil,NITROGEN POTASSIUM,2
+197,sonam shivhare,Jharkhand,Dry Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+198,Sumit Ahuja,Karnataka,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+199,Sunayana Patel,Karnataka,Laterite Soil,NITROGEN PHOSPHOROUS,2
+200,Surbhi Tamrakar,Karnataka,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+201,Surbhit Vishwakarma,Karnataka,Clay Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+202,Tarannum khan,Karnataka,Sandy soil,NITROGEN,1
+203,Tripti Mandhyan,Karnataka,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+204,VAIBHAV PATEL,Karnataka,Silt Soil,NITROGEN,1
+205,Vedant kumar sharma,Karnataka,Peat Soil,AMMONIUM_SULPHATE,1
+206,Vibha Sharma,Karnataka,Loam Soil,NITROGEN POTASSIUM,2
+207,Vijaya laxmi soni,Karnataka,Dry Soil,NITROGEN,1
+208,Vinita srivastava,Karnataka,Slit Soil,NITROGEN PHOSPHOROUS,2
+209,VIPENDRA SINGH THAKUR,Karnataka,Loam Soil,NITROGEN PHOSPHOROUS,2
+210,Aashi Pandey,Karnataka,Black soil,UREA AMMONIUM_SULPHATE,2
+211,Aayushi Patle,Kerala,Alluvial soil,NITROGEN PHOSPHOROUS,2
+212,Aditya soni,Kerala,Dry Soil,NITROGEN PHOSPHOROUS,2
+213,Anand kumar ojha,Kerala,Loam Soil,NITROGEN,1
+214,Anish Kumar Pandey,Kerala,Laterite Soil,POTASSIUM,1
+215,Ankita,Kerala,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+216,Ankita Patel,Kerala,Clay Soil,NITROGEN,1
+217,Anmol Singh Chouhan,Kerala,Sandy soil,NITROGEN PHOSPHOROUS,2
+218,Jinnat Begam,Kerala,Loam Soil,NITROGEN PHOSPHOROUS,2
+219,Kapil Kumar kol,Kerala,Silt Soil,NITROGEN POTASSIUM,2
+220,Kartikeya Mehta,Kerala,Peat Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+221,Keerti kushwaha,Kerala,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+222,Kirti Dubey,Kerala,Dry Soil,NITROGEN PHOSPHOROUS,2
+223,Mahak jain,Kerala,Slit Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+224,MAHIMA KURMI PATEL,Kerala,Loam Soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+225,Manoj kumar Armo,Kerala,Black soil,NITROGEN,1
+226,Manu Chourasiya,Kerala,Alluvial soil,NITROGEN PHOSPHOROUS POTASSIUM,3
+227,MOHAMMAD SAIF KHAN,Kerala,Dry Soil,NITROGEN,1
